@@ -4,7 +4,7 @@
   "description": "lb test vm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lb_test_node.js"
   },
   "author": "windy80x",
